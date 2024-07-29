@@ -1,6 +1,7 @@
 ## olá 👋
 
-
+ meu nome é Gabriell Santos 
+ Tenho 16 anos, segue lá mlkadinha @biell__.santos 
 **Gabriellssant0ssss/Gabriellssant0ssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
