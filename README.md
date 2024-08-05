@@ -1,18 +1,29 @@
-## olá 👋
-
- meu nome é Gabriell Santos 
- Tenho 16 anos, segue lá mlkadinha @biell__.santos 
-**Gabriellssant0ssss/Gabriellssant0ssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Olá! Eu sou [Gabriell Santos] 👋
 
 
+## Sobre mim
+Sou um estudante do ensino medio em São Paulo.
+
+- 🔭 Atualmente estou Estudando em Oscarlina De Araujo Oliveira- (http://www.educacao.sp.gov.br/cgrh/escolas/oscarlina-de-araujo-oliveira-professora/).
+- 🌱 Estou aprendendo [Tecnologia e Robotica!🤖 ].
+- 👯 Procuro colaborar em desafios interessantes.
+- 📫 Como me encontrar: [Seu Email](mailt.gabrielmoraee49@gmail.com)
+## 🛠️ Habilidades
+
+### Linguagens de Programação
+-
+      
+### Frameworks e Ferramentas
+-
+
+### Banco de Dados
+-
+
+## 🚀 Projetos
+ATUALMENTE NAO TENHO NENHUM PROJETO.
+
+## 📫 Contato
+
+---
+
+Espero que tenha gostado do meu perfil! Vamos conectar e colaborar em projetos futuros.
